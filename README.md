@@ -1,4 +1,4 @@
-# 🍽️ Smart Restaurant Management System (SRMS)
+# 🍽️ Restaurant Management System (RMS)
 
 ## 📌 Overview 
 My task is to design and develop a **Smart Restaurant Management System** that follows **SOLID principles**, applies **clean coding techniques**, and incorporates **design patterns**.  
