@@ -53,7 +53,7 @@ Code is structured under `src/` with **clean coding** practices and unit tests i
 ## 📂 Repository Structure
 - `docs/` → UML diagrams, design docs, and testing strategy  
 - `src/` → Source code (SRMS implementation)  
-- `tests/` → Unit and integration test scripts  
+- `tests/` → Unit and integration test scripts
 - `diagrams/` → UML diagrams with design patterns  
 
 ---
@@ -62,5 +62,5 @@ Code is structured under `src/` with **clean coding** practices and unit tests i
 - **Language**: Java
 - **Design**: UML, SOLID principles 
 - **Database**: SQL-based system 
-- **Testing**: NUnit / JUnit, Selenium, CI/CD pipelines 
+- **Testing**: JUnit
 
