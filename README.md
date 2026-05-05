@@ -26,14 +26,14 @@ The system efficiently manages:
 
 #### 1.2 Design Patterns
 Enhanced UML design includes:
-- **Singleton Pattern** → 
-- **Observer Pattern** → 
+- **Singleton Pattern** 
+- **Observer Pattern**  
 
 #### 1.3 Testing Strategy
 - **Testing Objectives**: To ensure reliability, scalability, and responsiveness of SRMS.  
 - **Testing Strategy**: Unit, Integration Testing.
 - **Hardware & Environment**:  
-  - Server: Windows, 8GB RAM, SQL DB  
+  - Server: Windows 10, 8GB RAM, SQL DB  
   - Tools: JUnit
 
 ---
